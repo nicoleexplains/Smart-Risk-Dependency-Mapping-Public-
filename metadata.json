@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Smart Risk & Dependency Mapping App",
+  "description": "A tool that visualizes task dependencies and uses AI to flag 'weak links' in the schedule, providing a 'Critical Path Health Score' to proactively identify tasks needing immediate project management intervention.",
+  "requestFramePermissions": []
+}
